@@ -1,0 +1,29 @@
+[INFO ] 2023-04-20 22:00:41.543 [main] UserTests2 - ********** Creating User **********
+[INFO ] 2023-04-20 22:00:44.131 [main] UserTests2 - ********** User is created **********
+[INFO ] 2023-04-20 22:00:44.142 [main] UserTests2 - ********** Reading User Info **********
+[INFO ] 2023-04-20 22:00:45.497 [main] UserTests2 - {"id":967323951,"username":"kizzy.predovic","firstName":"Stevie","lastName":"Yost","email":"buford.labadie@example.com","password":"j488u","phone":"402.676.5299","userStatus":0}
+[INFO ] 2023-04-20 22:00:45.497 [main] UserTests2 - ********** User Info Displayed **********
+[INFO ] 2023-04-20 22:00:45.506 [main] UserTests2 - ********** Updating User **********
+[INFO ] 2023-04-20 22:00:48.143 [main] UserTests2 - {"id":967323951,"username":"kizzy.predovic","firstName":"Vance","lastName":"Schmitt","email":"ozzie.schinner@example.com","password":"j488u","phone":"402.676.5299","userStatus":0}
+[INFO ] 2023-04-20 22:00:48.143 [main] UserTests2 - ********** User Updated **********
+[INFO ] 2023-04-20 22:00:48.145 [main] UserTests2 - ********** Deleting User **********
+[INFO ] 2023-04-20 22:00:49.450 [main] UserTests2 - ********** User Deleted **********
+[INFO ] 2023-04-20 22:04:38.384 [main] UserTests2 - ********** Creating User **********
+[INFO ] 2023-04-20 22:04:40.662 [main] UserTests2 - ********** User is created **********
+[INFO ] 2023-04-20 22:04:40.675 [main] UserTests2 - ********** Reading User Info **********
+[INFO ] 2023-04-20 22:04:41.769 [main] UserTests2 - {"id":1600594643,"username":"marg.ohara","firstName":"Ernest","lastName":"Metz","email":"sarita.keeling@example.com","password":"ds4d5q0oy","phone":"663.032.9276","userStatus":0}
+[INFO ] 2023-04-20 22:04:41.769 [main] UserTests2 - ********** User Info Displayed **********
+[INFO ] 2023-04-20 22:04:41.771 [main] UserTests2 - ********** Updating User **********
+[INFO ] 2023-04-20 22:04:43.987 [main] UserTests2 - {"id":1600594643,"username":"marg.ohara","firstName":"Isiah","lastName":"Huel","email":"loralee.denesik@example.com","password":"ds4d5q0oy","phone":"663.032.9276","userStatus":0}
+[INFO ] 2023-04-20 22:04:43.987 [main] UserTests2 - ********** User Updated **********
+[INFO ] 2023-04-20 22:04:43.989 [main] UserTests2 - ********** Deleting User **********
+[INFO ] 2023-04-20 22:11:07.351 [main] UserTests2 - ********** Creating User **********
+[INFO ] 2023-04-20 22:11:09.548 [main] UserTests2 - ********** User is created **********
+[INFO ] 2023-04-20 22:11:09.559 [main] UserTests2 - ********** Reading User Info **********
+[INFO ] 2023-04-20 22:11:10.713 [main] UserTests2 - {"id":967323951,"username":"terence.becker","firstName":"Rozella","lastName":"Hintz","email":"bev.larson@example.com","password":"lf8iozb","phone":"049.001.7820","userStatus":0}
+[INFO ] 2023-04-20 22:11:10.714 [main] UserTests2 - ********** User Info Displayed **********
+[INFO ] 2023-04-20 22:11:10.716 [main] UserTests2 - ********** Updating User **********
+[INFO ] 2023-04-20 22:11:12.871 [main] UserTests2 - {"id":967323951,"username":"terence.becker","firstName":"Courtney","lastName":"Cummerata","email":"jarvis.treutel@example.com","password":"lf8iozb","phone":"049.001.7820","userStatus":0}
+[INFO ] 2023-04-20 22:11:12.871 [main] UserTests2 - ********** User Updated **********
+[INFO ] 2023-04-20 22:11:12.873 [main] UserTests2 - ********** Deleting User **********
+[INFO ] 2023-04-20 22:11:13.912 [main] UserTests2 - ********** User Deleted **********

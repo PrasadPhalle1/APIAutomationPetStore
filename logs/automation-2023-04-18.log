@@ -1,0 +1,26 @@
+[INFO ] 2023-04-18 16:31:52.028 [main] UserTests - ********** Creating User **********
+[INFO ] 2023-04-18 16:31:54.427 [main] UserTests - ********** User is created **********
+[INFO ] 2023-04-18 16:31:54.440 [main] UserTests - ********** Reading User Info **********
+[INFO ] 2023-04-18 16:31:55.593 [main] UserTests - {"id":1494346128,"username":"jospeh.gottlieb","firstName":"Trena","lastName":"Koepp","email":"anton.stamm@example.com","password":"1um3lchhn","phone":"(733) 632-5586","userStatus":0}
+[INFO ] 2023-04-18 16:31:55.593 [main] UserTests - ********** User Info Displayed **********
+[INFO ] 2023-04-18 16:31:55.602 [main] UserTests - ********** Updating User **********
+[INFO ] 2023-04-18 16:31:57.888 [main] UserTests - {"id":1494346128,"username":"jospeh.gottlieb","firstName":"Allie","lastName":"Bergstrom","email":"torrie.runolfsson@example.com","password":"1um3lchhn","phone":"(733) 632-5586","userStatus":0}
+[INFO ] 2023-04-18 16:31:57.889 [main] UserTests - ********** User Updated **********
+[INFO ] 2023-04-18 16:31:57.890 [main] UserTests - ********** Deleting User **********
+[INFO ] 2023-04-18 16:31:59.036 [main] UserTests - ********** User Deleted **********
+[INFO ] 2023-04-18 16:31:59.881 [main] DDTests - ********** Creating User **********
+[INFO ] 2023-04-18 16:32:00.999 [main] DDTests - ********** User is created **********
+[INFO ] 2023-04-18 16:32:01.001 [main] DDTests - ********** Creating User **********
+[INFO ] 2023-04-18 16:32:02.160 [main] DDTests - ********** User is created **********
+[INFO ] 2023-04-18 16:32:02.162 [main] DDTests - ********** Creating User **********
+[INFO ] 2023-04-18 16:32:03.317 [main] DDTests - ********** User is created **********
+[INFO ] 2023-04-18 16:32:03.319 [main] DDTests - ********** Creating User **********
+[INFO ] 2023-04-18 16:32:04.452 [main] DDTests - ********** User is created **********
+[INFO ] 2023-04-18 16:32:04.508 [main] DDTests - ********** Deleting User **********
+[INFO ] 2023-04-18 16:32:05.652 [main] DDTests - ********** User Deleted **********
+[INFO ] 2023-04-18 16:32:05.653 [main] DDTests - ********** Deleting User **********
+[INFO ] 2023-04-18 16:32:06.782 [main] DDTests - ********** User Deleted **********
+[INFO ] 2023-04-18 16:32:06.783 [main] DDTests - ********** Deleting User **********
+[INFO ] 2023-04-18 16:32:07.894 [main] DDTests - ********** User Deleted **********
+[INFO ] 2023-04-18 16:32:07.896 [main] DDTests - ********** Deleting User **********
+[INFO ] 2023-04-18 16:32:09.025 [main] DDTests - ********** User Deleted **********

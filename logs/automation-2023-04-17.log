@@ -1,0 +1,10 @@
+[INFO ] 2023-04-17 12:44:25.504 [main] UserTests - ********** Creating User **********
+[INFO ] 2023-04-17 12:44:28.018 [main] UserTests - ********** User is created **********
+[INFO ] 2023-04-17 12:44:28.031 [main] UserTests - ********** Reading User Info **********
+[INFO ] 2023-04-17 12:44:29.444 [main] UserTests - {"id":967323951,"username":"martin.lemke","firstName":"Waldo","lastName":"Kuphal","email":"helaine.fisher@example.com","password":"qjzuemk","phone":"892.219.5413","userStatus":0}
+[INFO ] 2023-04-17 12:44:29.444 [main] UserTests - ********** User Info Displayed **********
+[INFO ] 2023-04-17 12:44:29.446 [main] UserTests - ********** Updating User **********
+[INFO ] 2023-04-17 12:44:32.156 [main] UserTests - {"id":967323951,"username":"martin.lemke","firstName":"Earle","lastName":"Buckridge","email":"aja.trantow@example.com","password":"qjzuemk","phone":"892.219.5413","userStatus":0}
+[INFO ] 2023-04-17 12:44:32.156 [main] UserTests - ********** User Updated **********
+[INFO ] 2023-04-17 12:44:32.157 [main] UserTests - ********** Deleting User **********
+[INFO ] 2023-04-17 12:44:33.482 [main] UserTests - ********** User Deleted **********

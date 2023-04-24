@@ -1,0 +1,20 @@
+[INFO ] 2023-04-24 11:13:07.717 [main] UserTests2 - ********** Creating User **********
+[INFO ] 2023-04-24 11:13:10.096 [main] UserTests2 - ********** User is created **********
+[INFO ] 2023-04-24 11:13:10.107 [main] UserTests2 - ********** Reading User Info **********
+[INFO ] 2023-04-24 11:13:11.203 [main] UserTests2 - {"id":1595282218,"username":"adam.halvorson","firstName":"Jefferson","lastName":"Kuphal","email":"ervin.block@example.com","password":"dd4keqaxx","phone":"657.706.4548","userStatus":0}
+[INFO ] 2023-04-24 11:13:11.203 [main] UserTests2 - ********** User Info Displayed **********
+[INFO ] 2023-04-24 11:13:11.204 [main] UserTests2 - ********** Updating User **********
+[INFO ] 2023-04-24 11:13:13.396 [main] UserTests2 - {"id":1595282218,"username":"adam.halvorson","firstName":"Robt","lastName":"Rolfson","email":"ping.harris@example.com","password":"dd4keqaxx","phone":"657.706.4548","userStatus":0}
+[INFO ] 2023-04-24 11:13:13.396 [main] UserTests2 - ********** User Updated **********
+[INFO ] 2023-04-24 11:13:13.396 [main] UserTests2 - ********** Deleting User **********
+[INFO ] 2023-04-24 11:13:14.496 [main] UserTests2 - ********** User Deleted **********
+[INFO ] 2023-04-24 11:18:38.203 [main] UserTests2 - ********** Creating User **********
+[INFO ] 2023-04-24 11:18:40.602 [main] UserTests2 - ********** User is created **********
+[INFO ] 2023-04-24 11:18:40.613 [main] UserTests2 - ********** Reading User Info **********
+[INFO ] 2023-04-24 11:18:41.984 [main] UserTests2 - {"id":1595282218,"username":"kennith.kub","firstName":"Maritza","lastName":"Mertz","email":"alphonso.rolfson@example.com","password":"5lp9s","phone":"125-444-4259","userStatus":0}
+[INFO ] 2023-04-24 11:18:41.984 [main] UserTests2 - ********** User Info Displayed **********
+[INFO ] 2023-04-24 11:18:41.984 [main] UserTests2 - ********** Updating User **********
+[INFO ] 2023-04-24 11:18:44.705 [main] UserTests2 - {"id":1595282218,"username":"kennith.kub","firstName":"Tracey","lastName":"Raynor","email":"lisette.bogisich@example.com","password":"5lp9s","phone":"125-444-4259","userStatus":0}
+[INFO ] 2023-04-24 11:18:44.705 [main] UserTests2 - ********** User Updated **********
+[INFO ] 2023-04-24 11:18:44.706 [main] UserTests2 - ********** Deleting User **********
+[INFO ] 2023-04-24 11:18:46.027 [main] UserTests2 - ********** User Deleted **********

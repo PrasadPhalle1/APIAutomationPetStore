@@ -1,0 +1,8 @@
+[INFO ] 2023-04-16 23:28:55.658 [main] UserTests - ********** Creating User **********
+[INFO ] 2023-04-16 23:28:57.946 [main] UserTests - ********** User is created **********
+[INFO ] 2023-04-16 23:28:57.955 [main] UserTests - ********** Reading User Info **********
+[INFO ] 2023-04-16 23:28:59.039 [main] UserTests - ********** User Info Displayed **********
+[INFO ] 2023-04-16 23:28:59.042 [main] UserTests - ********** Updating User **********
+[INFO ] 2023-04-16 23:29:00.078 [main] UserTests - ********** User Updated **********
+[INFO ] 2023-04-16 23:29:01.154 [main] UserTests - ********** Deleting User **********
+[INFO ] 2023-04-16 23:29:02.212 [main] UserTests - ********** User Deleted **********
